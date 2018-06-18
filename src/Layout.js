@@ -29,7 +29,7 @@ function FullWidthGrid(props) {
           <SimpleMediaCard/>
         </Grid>
       </Grid>
-      </Grid>
+    </Grid>
   );
 }
 

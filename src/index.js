@@ -7,10 +7,6 @@ function App() {
     <div>
       <FullWidthGrid />
     </div>
-    
-    // <Button variant="contained" color="primary">
-    //   Hello World
-    // </Button>
   );
 }
 
